@@ -1,1 +1,3 @@
 freds file
+
+Hello fred
